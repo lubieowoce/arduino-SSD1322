@@ -88,7 +88,7 @@ static const unsigned char PROGMEM logo16_glcd_bmp[] =
 #endif
 
 void setup()   {                
-  Serial.begin(9600);
+  Serial.begin(115200);
   
   // Initialize and perform reset
   display.begin(true);
@@ -387,4 +387,3 @@ void testscrolltext(void) {
   delay(2000);
   display.stopscroll();
 }
-
