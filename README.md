@@ -1,4 +1,10 @@
 # Arduino/ESP8266 SSD1322 Library
+
+[![GitHub Discussions](https://img.shields.io/github/discussions/cvonk/arduino-SSD1322)](https://github.com/cvonk/arduino-SSD1322/discussions)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/cvonk/arduino-SSD1322)
+![GitHub](https://img.shields.io/github/license/cvonk/arduino-SSD1322)
+
+
 ## For Newhaven NHD-3.12-25664UCY2 OLED Display
 
 The [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library) introduces graphics primitives (points, lines, circles, etc.). This library add support for the [Newhaven NHD-3.12-25664UCY2](http://www.newhavendisplay.com/nhd31225664ucy2-p-3537.html) 256x64x16 Yellow OLED Display.  The driver supports 4-wire SPI mode.
