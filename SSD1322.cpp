@@ -35,7 +35,7 @@ All text above, and the splash screen must be included in any redistribution
 #include <stdlib.h>
 
 #include "Adafruit_GFX.h"
-#include "ESP8266_SSD1322.h"
+#include "SSD1322.h"
 
 #ifndef _swap_int16_t
 #define _swap_int16_t(a, b) { int16_t t = a; a = b; b = t; }
